@@ -1,0 +1,6 @@
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\MappingRobot\MappingRobot\bin\Debug\MappingRobot.exe.config
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\MappingRobot\MappingRobot\bin\Debug\MappingRobot.exe
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\MappingRobot\MappingRobot\bin\Debug\MappingRobot.pdb
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\MappingRobot\MappingRobot\obj\Debug\MappingRobot.csprojResolveAssemblyReference.cache
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\MappingRobot\MappingRobot\obj\Debug\MappingRobot.exe
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\MappingRobot\MappingRobot\obj\Debug\MappingRobot.pdb
